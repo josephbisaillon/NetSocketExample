@@ -1,0 +1,9 @@
+C:\Users\Joseph\Documents\GitHub\NetSocketExample\NetSocketClientExample\bin\Debug\NetSocketClientExample.exe.config
+C:\Users\Joseph\Documents\GitHub\NetSocketExample\NetSocketClientExample\bin\Debug\NetSocketClientExample.exe
+C:\Users\Joseph\Documents\GitHub\NetSocketExample\NetSocketClientExample\bin\Debug\NetSocketClientExample.pdb
+C:\Users\Joseph\Documents\GitHub\NetSocketExample\NetSocketClientExample\bin\Debug\NetSockets.dll
+C:\Users\Joseph\Documents\GitHub\NetSocketExample\NetSocketClientExample\bin\Debug\NetSockets.pdb
+C:\Users\Joseph\Documents\GitHub\NetSocketExample\NetSocketClientExample\bin\Debug\NetSockets.xml
+C:\Users\Joseph\Documents\GitHub\NetSocketExample\NetSocketClientExample\obj\Debug\NetSocketClientExample.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\GitHub\NetSocketExample\NetSocketClientExample\obj\Debug\NetSocketClientExample.exe
+C:\Users\Joseph\Documents\GitHub\NetSocketExample\NetSocketClientExample\obj\Debug\NetSocketClientExample.pdb

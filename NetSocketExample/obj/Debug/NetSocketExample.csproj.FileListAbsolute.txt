@@ -1,0 +1,12 @@
+C:\Users\Joseph\Documents\GitHub\ModernizedMMM\NetSocketExample\NetSocketExample\bin\Debug\NetSocketExample.exe.config
+C:\Users\Joseph\Documents\GitHub\ModernizedMMM\NetSocketExample\NetSocketExample\bin\Debug\NetSocketExample.exe
+C:\Users\Joseph\Documents\GitHub\ModernizedMMM\NetSocketExample\NetSocketExample\bin\Debug\NetSocketExample.pdb
+C:\Users\Joseph\Documents\GitHub\ModernizedMMM\NetSocketExample\NetSocketExample\bin\Debug\NetSockets.dll
+C:\Users\Joseph\Documents\GitHub\ModernizedMMM\NetSocketExample\NetSocketExample\bin\Debug\NetSockets.pdb
+C:\Users\Joseph\Documents\GitHub\ModernizedMMM\NetSocketExample\NetSocketExample\bin\Debug\NetSockets.xml
+C:\Users\Joseph\Documents\GitHub\ModernizedMMM\NetSocketExample\NetSocketExample\obj\Debug\NetSocketExample.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\GitHub\ModernizedMMM\NetSocketExample\NetSocketExample\obj\Debug\NetSocketExample.exe
+C:\Users\Joseph\Documents\GitHub\ModernizedMMM\NetSocketExample\NetSocketExample\obj\Debug\NetSocketExample.pdb
+C:\Users\Joseph\Documents\GitHub\NetSocketExample\NetSocketExample\bin\Debug\NetSocketExample.exe.config
+C:\Users\Joseph\Documents\GitHub\NetSocketExample\NetSocketExample\obj\Debug\NetSocketExample.exe
+C:\Users\Joseph\Documents\GitHub\NetSocketExample\NetSocketExample\obj\Debug\NetSocketExample.pdb
